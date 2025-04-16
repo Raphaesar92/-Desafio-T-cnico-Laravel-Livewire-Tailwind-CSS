@@ -4,7 +4,7 @@ npm install;
 
 Para executar, digite o comando no terminal:
 
-Depois execute comando para plular o bancode dados:
+Depois execute comando para popular o banco de dados:
 
 php artisan migrate;
 
